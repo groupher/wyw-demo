@@ -1,4 +1,5 @@
-import { styled } from "@linaria/react";
+// import { styled } from "@linaria/react";
+import { styled } from "../../styled-system/jsx";
 
 export const Wrapper = styled.div`
   border: 1px solid blue;
